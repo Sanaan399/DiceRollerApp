@@ -1,6 +1,6 @@
-# firstapp
+#DiceRollerApp
 
-A new Flutter project.
+my first project in flutter
 
 ## Getting Started
 
